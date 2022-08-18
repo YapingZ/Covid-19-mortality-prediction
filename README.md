@@ -14,7 +14,7 @@ Downloading the data:
 The data to be used in this project is the CSV file named “COVID19_line_list_data.csv”  .There are two ways to download the data used in this project: 
 1. Download directly from the website: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset.
 2. Alternatively, you can select the Download ZIP option under the Code option, it directly downloads all the files in a zip file format to your system. 
-3. 
+
 
 Softwares required:
 --------------------
