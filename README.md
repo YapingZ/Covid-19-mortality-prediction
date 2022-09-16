@@ -6,7 +6,7 @@ Project Background:
 --------------------
 The COVID-19 is an infectious disease which is affecting people all around the world since the begining of 2020. It has caused a devastating effect on both public health and global economy. To predict the whether a new COVID-19 patient would develop to death, and then allocate the proper medical resource to them will greatly save our limited medical resoures.
 
- Machine learning underpins many modern AI techniques, which can learn from data and give insight to us. The goal of this project is to explor different machine learning methods to predict the motality of COVID-9 patients.
+ Machine learning underpins many modern AI techniques, which can learn from data and give insight to us. The goal of this project is to explor different machine learning methods to predict the motality of COVID-19 patients.
 
 
 Downloading the data:
